@@ -1,17 +1,32 @@
-# Hi 👋 I'm Muqsit-Chohan
+<h1 align="center">Hi 👋, I'm Muqsit-Chohan</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | UI/UX Enthusiast</h3>
 
-I'm a Software Engineering student and Full-Stack Developer.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-## About Me
-- 💻 Full-stack developer
-- 🌱 Learning React, Next.js, and backend tools
-- 🚀 Building practical projects
-- ⚡ Interested in UI/UX and automation
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="animated coding gif" />
+</p>
 
-## Tech Stack
-- HTML, CSS, JavaScript
-- React.js, Next.js, Node.js
-- Git, GitHub, n8n
+## 🚀 About Me
+- 💻 I build web apps and projects
+- 🌱 Currently learning modern web technologies
+- ⚡ I enjoy clean UI and useful tools
+- 🎯 Focused on full-stack development
 
-## Connect
-- GitHub: @Muqsit-Chohan
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muqsit-Chohan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muqsit-Chohan&layout=compact&theme=tokyonight" />
+</p>
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/Muqsit-Chohan"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
