@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ## 📊 GitHub Stats
