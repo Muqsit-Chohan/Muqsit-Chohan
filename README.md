@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muqsit-Chohan</h1>
+<h1 align="center">Hi 👋, I'm Abdul Muqsit Chohan</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
