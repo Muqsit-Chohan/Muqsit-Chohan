@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-muqsit-chohan/">
+    <img src="https://camo.githubusercontent.com/f7e2a0a56544b62e37f75729aadd40738bc6c30b68b62ad5e108a72ae0218808/68747470733a2f2f7777772e6368617270656e692e636f6d2f5f6e6578742f696d6167653f75726c3d253246737461746963253246696d616765732532466172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b25324662616e6e65722e67696626773d3139323026713d3735" alt="MasterHead" style="max-width: 100%;" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdul Muqsit Chohan</h1>
 <h3 align="center">Software Engineering Student • Full-Stack Developer • UI/UX Enthusiast</h3>
 
